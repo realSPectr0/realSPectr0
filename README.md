@@ -14,7 +14,7 @@ I'm a developer passionate about all things cybersecurity related. I also love r
 ## 🎯 Goals
 
 - OSCP: ▰▰▰▰▰▰▰▱▱▱ 70%
-- Sec+: ▰▰▰▰▰▰▰▰▰▰ Completed
+- CompTIA Sec+: ▰▰▰▰▰▰▰▰▰▰ Completed
 
 ## 📊 GitHub Stats
 
