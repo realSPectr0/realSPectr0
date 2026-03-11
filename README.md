@@ -1,6 +1,6 @@
 # Hi there, I'm tempest! 👋
 
-I'm a developer passionate about all things cybersecurity related. I also love ricing my arch linux.
+I'm a teenager from the Bay Area passionate about all things cybersecurity related. I also love ricing my arch linux.
 
 ## 🛠 Tools & Stuff
 
