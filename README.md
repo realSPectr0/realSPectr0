@@ -16,6 +16,4 @@ I'm a teenager from the Bay Area passionate about all things cybersecurity relat
 - OSCP: ▰▰▰▰▰▰▰▱▱▱ 70%
 - CompTIA Sec+: ▰▰▰▰▰▰▰▰▰▰ Completed
 
-## 📊 GitHub Stats
-[![temp3st's GitHub stats](https://github-readme-stats.vercel.app/api?username=realSPectr0&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
+## 📊 GitHub Stat
