@@ -17,6 +17,5 @@ I'm a teenager from the Bay Area passionate about all things cybersecurity relat
 - CompTIA Sec+: ▰▰▰▰▰▰▰▰▰▰ Completed
 
 ## 📊 GitHub Stats
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=realSPectr0&theme=react-dark)
+[![temp3st's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
