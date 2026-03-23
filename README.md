@@ -17,3 +17,4 @@ I'm a teenager from the Bay Area passionate about all things cybersecurity relat
 - CompTIA Sec+: ▰▰▰▰▰▰▰▰▰▰ Completed
 
 ## 📊 GitHub Stat
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=realSPectr0&theme=tokyonight&hide_border=true)
