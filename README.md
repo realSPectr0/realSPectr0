@@ -13,7 +13,8 @@ I'm a teenager from the Bay Area passionate about all things cybersecurity relat
 
 ## 🎯 Goals
 
-- OSCP: ▰▰▰▰▰▰▰▱▱▱ 70%
+- OSCP+: ▰▰▰▰▰▰▰▱▱▱ 70%
+- CPTS: ▱▱▱▱▱▱▱▱▱▱ 0%
 - CompTIA Sec+: ▰▰▰▰▰▰▰▰▰▰ Completed
 - CybSec Lessons: ▰▰▰▰▰▰▰▰▱▱ 80%
 - Security Research: ▰▱▱▱▱▱▱▱▱▱ 10%
