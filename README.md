@@ -15,7 +15,7 @@ I'm a teenager from the Bay Area passionate about all things cybersecurity relat
 
 - OSCP+: ▰▰▰▰▰▰▰▱▱▱ 70%
 - CPTS: ▰▱▱▱▱▱▱▱▱▱ 10%
-- CompTIA Sec+: ▰▰▰▰▰▰▰▰▰▰ Certified
+- CompTIA Sec+: ▰▰▰▰▰▰▰▰▰▰ Completed
 - CybSec Lessons: ▰▰▰▰▰▰▰▰▱▱ 80%
 - Security Research: ▰▱▱▱▱▱▱▱▱▱ 10%
 
