@@ -16,8 +16,8 @@ I'm a teenager from the Bay Area passionate about all things cybersecurity relat
 - OSCP+: ▰▰▰▰▰▰▰▱▱▱ 70%
 - CPTS: ▰▱▱▱▱▱▱▱▱▱ 10%
 - CompTIA Sec+: ▰▰▰▰▰▰▰▰▰▰ Completed
-- CybSec Lessons: ▰▰▰▰▰▰▰▰▰▰ Complete
-- BridgingTech Minigames: ▰▰▰▰▰▰▰▰▰▰ Complete
+- CybSec Lessons: ▰▰▰▰▰▰▰▰▰▰ Completed
+- BridgingTech Minigames: ▰▰▰▰▰▰▰▰▰▰ Completed
 - Security Research: ▰▰▰▱▱▱▱▱▱▱ 30%
 
 ## 📊 GitHub Stat
