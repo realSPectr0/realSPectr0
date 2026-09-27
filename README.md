@@ -16,9 +16,6 @@ I'm a teenager from the Bay Area passionate about all things cybersecurity relat
 - OSCP+: ▰▰▰▰▰▰▰▱▱▱ 70%
 - CPTS: ▰▱▱▱▱▱▱▱▱▱ 10%
 - CompTIA Sec+: ▰▰▰▰▰▰▰▰▰▰ Completed
-- CybSec Lessons: ▰▰▰▰▰▰▰▰▰▰ Completed
-- BridgingTech Minigames: ▰▰▰▰▰▰▰▰▰▰ Completed
-- Security Research: ▰▰▰▱▱▱▱▱▱▱ 30%
 
 ## 📊 GitHub Stat
 ![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=realSPectr0&bg_color=1B2B48&color=38b6ff&line=38b6ff&point=ffffff&area=true&hide_border=true)
