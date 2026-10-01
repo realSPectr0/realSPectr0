@@ -17,8 +17,15 @@ I'm a teenager from the Bay Area passionate about all things cybersecurity relat
 - CPTS: ▰▱▱▱▱▱▱▱▱▱ 10%
 - CompTIA Sec+: ▰▰▰▰▰▰▰▰▰▰ Completed
 
-## 📊 GitHub Stat
+## 📊 GitHub Statistics
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=realSPectr0&show_icons=true&theme=github_dark" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realSPectr0&layout=donut&theme=github_dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=realSPectr0&show_icons=true&rank_icon=github&include_all_commits=true&number_format=long&custom_title=realSPectr0%27s%20GitHub%20Statistics&bg_color=0d1117&text_color=8b949e&title_color=58a6ff&icon_color=58a6ff&border_color=6e7681&card_width=460"
+    height="195"
+  />
+  &nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=realSPectr0&layout=donut&bg_color=0d1117&text_color=8b949e&title_color=58a6ff&border_color=6e7681&card_width=320"
+    height="195"
+  />
 </p>
