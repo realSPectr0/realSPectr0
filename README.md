@@ -18,14 +18,22 @@ I'm a teenager from the Bay Area passionate about all things cybersecurity relat
 - CompTIA Sec+: ▰▰▰▰▰▰▰▰▰▰ Completed
 
 ## 📊 GitHub Statistics
-<p align="center">
+<div align="center">
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=realSPectr0&show_icons=true&rank_icon=github&include_all_commits=true&number_format=long&custom_title=realSPectr0%27s%20GitHub%20Statistics&bg_color=0d1117&text_color=8b949e&title_color=58a6ff&icon_color=58a6ff&border_color=6e7681&card_width=460"
+    src="https://github-readme-stats.vercel.app/api?username=realSPectr0&show_icons=true&rank_icon=github&custom_title=realSPectr0%27s%20GitHub%20Statistics&bg_color=0d1117&text_color=8b949e&title_color=58a6ff&icon_color=58a6ff&border_color=6e7681&card_width=460"
     height="195"
   />
-  &nbsp;
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=realSPectr0&layout=donut&bg_color=0d1117&text_color=8b949e&title_color=58a6ff&border_color=6e7681&card_width=320"
     height="195"
   />
-</p>
+
+  <br>
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=realSPectr0&background=0d1117&border=6e7681&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&card_width=790"
+    height="195"
+  />
+
+</div>
