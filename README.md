@@ -29,12 +29,9 @@ I'm a teenager from the Bay Area passionate about all things cybersecurity relat
     height="195"
   />
 
-  <br>
-
-  <img
+  <br><img
     src="./profile/streak.svg"
     height="195"
     alt="GitHub Streak"
   />
-
 </div>
