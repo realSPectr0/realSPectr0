@@ -20,15 +20,6 @@ I'm a teenager from the Bay Area passionate about all things cybersecurity relat
 ## 📊 GitHub Statistics
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=realSPectr0&show_icons=true&rank_icon=github&custom_title=realSPectr0%27s%20GitHub%20Statistics&bg_color=0d1117&text_color=8b949e&title_color=58a6ff&icon_color=58a6ff&border_color=6e7681&card_width=460"
-    height="195"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=realSPectr0&layout=donut&bg_color=0d1117&text_color=8b949e&title_color=58a6ff&border_color=6e7681&card_width=320"
-    height="195"
-  />
-
   <br><img
     src="./profile/streak.svg"
     height="195"
