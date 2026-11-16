@@ -9,20 +9,3 @@ I'm a teenager from the Bay Area passionate about all things cybersecurity relat
 |![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) |
 
 
----
-
-## 🎯 Goals
-
-- OSCP+: ▰▰▰▰▰▰▰▱▱▱ 70%
-- CPTS: ▰▱▱▱▱▱▱▱▱▱ 10%
-- CompTIA Sec+: ▰▰▰▰▰▰▰▰▰▰ Completed
-
-## 📊 GitHub Statistics
-<div align="center">
-
-  <br><img
-    src="./profile/streak.svg"
-    height="195"
-    alt="GitHub Streak"
-  />
-</div>
