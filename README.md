@@ -3,6 +3,6 @@
 
 <samp>If I'm not doing ctfs or studying for certs I'm probably playing rocket league or gacha games.</samp> 
 
-<samp>currently playing with:<samp> [<samp>team</samp>](https://your-team-link) <samp>/</samp> [<samp>website</samp>](https://your-website)
+<samp>currently playing with:<samp> [<samp>idktheflag</samp>](https://ctftime.org/team/419270) <samp>/</samp> [<samp>website</samp>](https://idktheflag.sh/)
 
 <samp>Current interests: memory poisoning, flip resets, scan + enum</samp>
